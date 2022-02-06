@@ -1,0 +1,91 @@
+.gamepane {
+   -fx-background-color: black;
+}
+
+
+.menu-title {
+    -fx-font-family: "Orbitron";
+    -fx-fill: white;
+    -fx-font-size: 60;
+}
+
+.button {
+    -fx-font-family: "Orbitron";
+    -fx-background-radius: 10;
+}
+
+.text{
+    -fx-font-family: "Orbitron";
+}
+
+.instructions{
+    -fx-font-family: "Orbitron";
+}
+.gamelist-button{
+    -fx-background-color: transparent;
+}
+.lobby-text{
+    -fx-font-family: "Orbitron";
+}
+.lobby-title{
+    -fx-font-size: 40;
+    -fx-fill: white;
+}
+.user-list-title{
+    -fx-font-family: "Orbitron";
+}
+.user-list{
+    -fx-font-family: "Orbitron";
+}
+.message-text{
+    -fx-font-family: "Montserrat";
+}
+.message-text-name{
+    -fx-font-family: "Montserrat";
+}
+.gamelist-title{
+    -fx-font-family: "Orbitron";
+    -fx-fill: white;
+}
+.scores-title{
+    -fx-fill: white;
+    -fx-font-family: "Orbitron";
+    -fx-font-size: 60;
+}
+
+.scorelist-background{
+
+}
+.border-titles{
+    -fx-fill: white;
+    -fx-font-family: Orbitron;
+}
+
+.setting-titles{
+    -fx-font-family: Orbitron;
+}
+
+.settings-container{
+}
+.volume-slider .thumb{
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-radius: 10;
+    -fx-border-width: 3;
+}
+
+.volume-slider .track{
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-width: 3;
+}
+.spectate-text{
+    -fx-font-family: Orbitron;
+    -fx-font-size: 20;
+    -fx-fill: white;
+}
+
+.leaderboard-item{
+    -fx-font-family: "Orbitron";
+    -fx-font-size: 15;
+}

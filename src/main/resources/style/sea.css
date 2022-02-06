@@ -1,0 +1,104 @@
+.challenge-pane {
+    -fx-background-image: url("../images/sea/2.jpg");
+    -fx-background-size: cover;
+}
+
+
+.menu-pane{
+    -fx-background-image: url("../images/sea/1.jpg");
+    -fx-background-size: cover;
+}
+.settings-pane{
+    -fx-background-image: url("../images/sea/4.jpg");
+    -fx-background-size: cover;
+}
+
+.score-pane{
+    -fx-background-image: url("../images/sea/2.jpg");
+    -fx-background-size: cover;
+}
+
+
+.menu-title {
+    -fx-font-family: "Ocean Silhouette Font";
+    -fx-border-color: white;
+    -fx-fill: white;
+    -fx-font-size: 60;
+}
+
+.button {
+    -fx-font-family: "Ocean Silhouette Font";
+    -fx-background-radius: 10;
+
+}
+
+.text{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+
+.instructions{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+.gamelist-button{
+    -fx-background-color: transparent;
+}
+.lobby-text{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+.lobby-title{
+    -fx-font-size: 40;
+    -fx-fill: black;
+}
+.user-list-title{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+.user-list{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+.message-text{
+    -fx-font-family: "Montserrat";
+}
+.message-text-name{
+    -fx-font-family: "Montserrat";
+}
+.gamelist-title{
+    -fx-font-family: "Ocean Silhouette Font";
+    -fx-fill: white;
+}
+.scores-title{
+    -fx-fill: white;
+    -fx-font-family: "Ocean Silhouette Font";
+    -fx-font-size: 60;
+}
+
+.scorelist-background{
+    -fx-background-color: #61616199;
+}
+.border-titles{
+    -fx-fill: white;
+    -fx-font-family: "Ocean Silhouette Font";
+}
+
+.settings-container{
+    -fx-background-color: #78d0ff99;
+}
+
+.volume-slider .thumb{
+    -fx-background-image: url("../images/sea/button.png");
+}
+.setting-titles{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+.score-list{
+    -fx-font-family: "Ocean Silhouette Font";
+}
+.spectate-text{
+    -fx-font-family: "Ocean Silhouette Font";
+    -fx-font-size: 20;
+    -fx-fill: white;
+}
+
+.leaderboard-item{
+    -fx-font-family: "Ocean Silhouette Font";
+    -fx-font-size: 15;
+}

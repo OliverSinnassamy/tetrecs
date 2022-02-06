@@ -1,0 +1,145 @@
+
+.instructions {
+    -fx-font-size: 10px;
+    -fx-fill: white;
+}
+
+.menu-title{
+    -fx-font-size: 40;
+}
+
+.setting-titles{
+    -fx-font-size: 25;
+    -fx-fill: white;
+}
+
+.menu-buttons {
+    -fx-background-color: transparent;
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-max-width: 250;
+}
+
+.menu-buttons:hover {
+    -fx-text-fill: grey;
+    -fx-cursor: hand;
+}
+
+.score-list {
+    -fx-font-family: Orbitron;
+    -fx-font-size: 25;
+}
+
+.scorelist-title {
+    -fx-font-size: 20;
+    -fx-fill: white;
+}
+
+.gamelist-button {
+    -fx-pref-width: 150;
+    -fx-border-color: transparent;
+    -fx-pref-height: 35;
+    -fx-text-fill: white;
+}
+.gamelist-button:hover{
+    -fx-cursor: hand;
+    -fx-background-color: grey;
+}
+.gamelist-title{
+    -fx-font-size: 30;
+}
+
+.lobby-title{
+    -fx-font-size: 40;
+}
+.lobby-scene-titles{
+    -fx-fill: white;
+}
+
+.lobby-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+.lobby-pane{
+    -fx-background-color: transparent;
+}
+.lobby-button{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    -fx-border-color: white;
+}
+
+.lobby-button:hover{
+    -fx-text-fill: grey;
+    -fx-cursor: hand;
+}
+.lobby-button-right{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font-size: 15;
+    -fx-border-color: white;
+}
+
+.lobby-button-right:hover{
+    -fx-text-fill: grey;
+    -fx-cursor: hand;
+}
+
+.left-menu{
+    -fx-border-color: white;
+}
+.lobby-text{
+    -fx-font-size: 20;
+    -fx-fill: white;
+}
+
+.user-list-title{
+    -fx-fill: white;
+    -fx-font-size: 15;
+
+}
+
+.user-list{
+    -fx-fill: white;
+    -fx-font-size: 15;
+
+}
+
+.message-text{
+    -fx-fill: white;
+    -fx-font-size: 15;
+}
+.message-name{
+    -fx-fill: red;
+
+    -fx-font-size: 15;
+    -fx-end-margin: 20;
+}
+.message-holder .viewport{
+    -fx-background-color: transparent;
+}
+.message-holder{
+    -fx-background-color: transparent;
+}
+
+.dead-player{
+    -fx-strikethrough: true;
+}
+
+.settings-container{
+    -fx-max-width: 500;
+}
+.setting-titles{
+    -fx-font-size: 50;
+}
+
+.scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+
+
